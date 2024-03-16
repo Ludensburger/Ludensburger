@@ -13,8 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Spiral Animation" src="https://codepen.io/Ryu-Mendoza/embed/dyLORaE?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/Ryu-Mendoza/pen/dyLORaE">
-  Spiral Animation</a> by Ryu Mendoza (<a href="https://codepen.io/Ryu-Mendoza">@Ryu-Mendoza</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+<h3 align="left">Check out my animation:</h3>
+<p align="left">
+  <a href="https://link-to-your-animation.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/your-username/your-repository/master/path/to/your-animation-image.png" alt="Animation" height="30" width="40" />
+  </a>
+</p>
