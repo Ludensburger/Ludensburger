@@ -11,11 +11,3 @@
 Ludensburger/Ludensburger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-<h3 align="left">Check out my animation:</h3>
-<p align="left">
-  <a href="[https://link-to-your-animation.com](https://codepen.io/Ryu-Mendoza/pen/dyLORaE)" target="_blank">
-    
-  </a>
-</p>
