@@ -1,11 +1,4 @@
 🏗 WORK IN PROGRESS🚧
-- 👋 Hi, I’m @Ludensburger
-- ⚛ Currently Learning REACT
-- 👀 I’m interested in C/C++, and Java
-- 🌱 I’m currently learning JS & React
-- 🤝 In collaboration with [Jaco](https://github.com/jacocanete)
-- 💞️ I’m looking to collaborate on almost anything as long as its interesting and fun, that will help me in my Journey as a Programmer.
-- 📫 How to reach me: You can shoot a DM in Instagram @ryu.bmth
 
 <!---
 Ludensburger/Ludensburger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,14 +6,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi 👋, I'm Ludens</h1>
+<h1 align="center">Hi 👋, I'm Ryu aka Ludens</h1>
 <h3 align="center">A passionate learner exploring the world of programming!</h3>
 
 - 🔭 I’m currently working on [C Design & Analysis of Algorithms]([https://github.com/Ludensburger/ratemyuni-app](https://github.com/Ludensburger/C_DAA))
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, Node.js, TypeScript, Angular**
 
-- 📫 How to reach me: ludensburger@gmail.com
+- 📫 How to reach me: mendozaryu08@gmail.com
+
+- 🤝 In collaboration with [Jaco](https://github.com/jacocanete)
 
 ⚡ Fun fact: I'm either blazing through the cosmos or diving into the void of programming on my coding journey. lol
 
