@@ -4,7 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center" style="font-family:Cambria, 'Times New Roman', Times, serif;">Hi 👋, I'm Ryu aka Ludens</h1>
+<h1 align="center">Hi, I'm Ryu</h1>
+<p align="center"><sub>You can also call me Luden</sub></p>
+
 <h3 align="center">A passionate learner exploring the world of programming!</h3>
 
 - 🔭 I’m currently working on [C/C++ Design & Analysis of Algorithms](https://github.com/Ludensburger/C_AlgoDesign.git)
