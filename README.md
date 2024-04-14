@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 In collaboration with [Jaco](https://github.com/jacocanete)
 
-- ⚡ Fun fact: I'm either blazing through the cosmos or diving into the void of programming on my coding journey. lol
+- ⚡ Fun fact: I'm either blazing my way through programming or diving into the void of programming on my coding journey. lol
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
