@@ -10,13 +10,14 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m currently working on [C/C++ Design & Analysis of Algorithms](https://github.com/Ludensburger/C_DAA)
 
 - 🌱 I’m currently learning:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-</p>
+  <p align="left">
+    <span style="background-color:#f0db4f; padding: 2px 6px; border-radius: 4px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></span>
+    <span style="background-color:#f0db4f; padding: 2px 6px; border-radius: 4px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/></span>
+    <span style="background-color:#f0db4f; padding: 2px 6px; border-radius: 4px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></span>
+    <span style="background-color:#f0db4f; padding: 2px 6px; border-radius: 4px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></span>
+    <span style="background-color:#f0db4f; padding: 2px 6px; border-radius: 4px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></span>
+  </p>
+
 
 - 📫 How to reach me: mendozaryu08@gmail.com
 
