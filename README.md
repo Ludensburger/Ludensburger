@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi, I'm Ryu <sub>You can also call me Luden</sub></h1>
-
+<h1 align="center">Hi, I'm Ryu</h1>
+<p align="center"><sub>You can also call me Luden</sub></p>
 
 <h3 align="center">A passionate learner exploring the world of programming!</h3>
 
