@@ -31,8 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ludensburger&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ludensburger&theme=radical) <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
