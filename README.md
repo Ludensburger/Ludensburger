@@ -28,6 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact: I'm either blazing my way through programming or diving into the void of programming on my coding journey. lol
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rei-naissance&theme=radical&hide_border=true) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rei-naissance&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/luden666" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luden666" height="30" width="40" /></a>
