@@ -28,8 +28,8 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact: I'm either blazing my way through programming or diving into the void of programming on my coding journey. lol
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://www.facebook.com/luden666" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luden666" height="30" width="40" /></a>
   <a href="https://www.instagram.com/ryu.bmth/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryu.bmth" height="30" width="40" /></a>
 </p>
