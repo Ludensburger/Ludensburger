@@ -9,6 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3 align="center">A passionate programmer from Philippines!</h3>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
 
 - 🔭 I’m currently working on [C/C++ Design & Analysis of Algorithms](https://github.com/Ludensburger/C_AlgoDesign.git)
 
@@ -47,8 +51,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
 
 
