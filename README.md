@@ -29,8 +29,8 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: I'm either blazing my way through programming or diving into the void of programming on my coding journey. lol
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rei-naissance&theme=radical&hide_border=true) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rei-naissance&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br/>
 
 <h3 align="left">Connect with me:</h3>
