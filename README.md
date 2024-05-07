@@ -34,8 +34,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.instagram.com/ryu.bmth/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryu.bmth" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -46,5 +46,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ludensburger&theme=radical) <br/>
+</div>
