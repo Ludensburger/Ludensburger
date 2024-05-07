@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ludensburger&theme=radical) <br/>
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ludensburger&theme=radical" alt="Most Commit Language" />
 </div>
