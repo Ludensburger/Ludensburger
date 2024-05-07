@@ -47,4 +47,5 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ludensburger.ludensburger" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&layout=compact&theme=dracula)
+
