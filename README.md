@@ -47,8 +47,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&layout=compact&theme=radical)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&langs_count=8)
 
 
