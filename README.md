@@ -6,6 +6,8 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi, I'm Ryu! <br> <sub align="center"style="font-size: smaller;">You can also call me Ludens</sub></h1>
 
+<h3 align="center">A passionate programmer from Philippines!</h3>
+
 - 🔭 I’m currently working on [C/C++ Design & Analysis of Algorithms](https://github.com/Ludensburger/C_AlgoDesign.git)
 
 - 🌱 I’m currently learning:
@@ -24,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact: I'm either blazing my way through programming or diving into the void of programming on my coding journey. lol
 
-<h3 align="center">A passionate programmer from Philippines!</h3>
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
