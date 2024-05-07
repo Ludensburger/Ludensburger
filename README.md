@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align="center">A passionate Padawan exploring the world of programming!</h3>
+<h3 align="center">A passionate programmer from Philippines!</h3>
 
 - 🔭 I’m currently working on [C/C++ Design & Analysis of Algorithms](https://github.com/Ludensburger/C_AlgoDesign.git)
 
@@ -46,7 +46,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludensburger&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ludensburger&theme=radical" alt="Most Commit Language" />
-</div>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ludensburger&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
