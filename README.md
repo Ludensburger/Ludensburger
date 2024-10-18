@@ -8,9 +8,10 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A passionate programmer from Philippines!</h3>
 
 - 🔭 I’m currently working on:
- - BronxDev Photogrammetry - Exploring photogrammetry techniques to generate 3D models from images.
- - RPS Sockets in C - A socket-based Rock, Paper, Scissors game built using C.
- - Recommender System UI - Designing a user interface for a recommendation system.
+  - [BronxDev Photogrammetry](https://github.com/Ludensburger/BronxDev-Photogrammetry) - Exploring 3D model generation from images.
+  - [RPS Sockets in C](https://github.com/Ludensburger/RPS-SocketsC) - Building various games using sockets in C.
+  - [Recommender System UI](https://github.com/Ludensburger/Recommender-System-UI) - Crafting the front-end for a recommendation system.
+
 
 - 🌱 I’m currently learning:
   <p align="left">
