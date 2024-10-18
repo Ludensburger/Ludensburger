@@ -7,10 +7,10 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi, I'm Ryu! <br> <sub align="center"style="font-size: smaller;">You can also call me Ludens</sub></h1>
 <h3 align="center">A passionate programmer from Philippines!</h3>
 
-- 🔭 I’m currently working on 
-=>https://github.com/Ludensburger/BronxDev-Photogrammetry
-=>https://github.com/Ludensburger/RPS-SocketsC
-=>https://github.com/Ludensburger/Recommender-System-UI
+- 🔭 I’m currently working on:
+ - BronxDev Photogrammetry - Exploring photogrammetry techniques to generate 3D models from images.
+ - RPS Sockets in C - A socket-based Rock, Paper, Scissors game built using C.
+ - Recommender System UI - Designing a user interface for a recommendation system.
 
 - 🌱 I’m currently learning:
   <p align="left">
